@@ -11,3 +11,6 @@ Puntos:
 ##Referencias 
 [Kali-linux](https://maslinux.es/kali-linux-lo-que-debes-saber-antes-de-usarlo/)
 
+##Pagina web
+[Herramientas de Kali-linux](https://maslinux.es/las-mejores-20-herramientas-de-hacking-y-penetracion-para-kali-linux/)
+
