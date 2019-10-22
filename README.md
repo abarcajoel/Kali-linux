@@ -13,3 +13,9 @@ Puntos:
 ##Pagina web
 [Herramientas de Kali-linux](https://maslinux.es/las-mejores-20-herramientas-de-hacking-y-penetracion-para-kali-linux/)
 
+##Que es?
+[SO](https://hackingkalinux.com/)
+
+##Para que sirve
+[Funciones](https://seguridadroberto.wordpress.com/2016/10/30/kali-linux-que-es-para-que-se-utiliza-las-diez-aplicaciones-mas-importantes-que-integra/)
+
