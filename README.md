@@ -1,12 +1,10 @@
 # Kali-linux
 Estudio de Kali-Linux
 Puntos:
-1. Descripción (Kali-linux).
-2. Sistemas Operativos.
-3. Herramientas de Kali-linux.
-4. Ejemplo de herramientas.
-5. Ejemplo de Herramientas.
-6. Curiosidades
+1.- ¿Qué es Kali-Linux? ¿Para qué sirve?
+2.- ¿En qué sistema operativo está basado?
+3.- ¿Qué herramientas incluyen?
+
 
 ##Referencias 
 [Kali-linux](https://maslinux.es/kali-linux-lo-que-debes-saber-antes-de-usarlo/)
