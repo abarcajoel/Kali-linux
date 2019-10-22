@@ -1,9 +1,9 @@
 # Kali-linux
 Estudio de Kali-Linux
 Puntos:
-1.- ¿Qué es Kali-Linux? ¿Para qué sirve?
-2.- ¿En qué sistema operativo está basado?
-3.- ¿Qué herramientas incluyen?
+1. ¿Qué es Kali-Linux? ¿Para qué sirve?
+2. ¿En qué sistema operativo está basado?
+3. ¿Qué herramientas incluyen?
 
 
 ##Referencias 
